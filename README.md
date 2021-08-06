@@ -3,4 +3,4 @@
 - [Devpost](https://devpost.com/siddharthachatterjee)
 - [Email](mailto:ninja.siddhartha@gmai.com)
 - [Website](https://siddhartha-chatterjee.com)
-<div w3-include-html = "https://siddhartha-chatterjee.com/index.html"> </div>
+<iframe src = "https://siddhartha-chatterjee.com/" title = "Website"></iframe>
