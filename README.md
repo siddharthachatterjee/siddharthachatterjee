@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @siddharthachatterjee
-- I have created projects using React, Angular, Vue, TypeScript, and JavaScript
 - [Youtube](https://www.youtube.com/channel/UCWE2p_yjlHl2086O7apsAcQ)
 - [Devpost](https://devpost.com/siddharthachatterjee)
 - [Email](mailto:ninja.siddhartha@gmai.com)
